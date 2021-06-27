@@ -30,6 +30,7 @@ Since the aim of this project is to best predict whether a specific post belongs
 
 ### Data Dictionary
 
+|Feature|Type|Dataset|Description|
 |---|---|---|---|
 |**subreddit**|*object*|cpl, epl, football|Name of the post's subreddit of origin.| 
 |**title**|*object*|cpl, epl, football|The title of each subreddit post.| 
